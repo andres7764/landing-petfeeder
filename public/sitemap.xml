@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Replace pawflow.example with the production domain before deploying. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://pawflow.example/</loc></url>
+  <url><loc>https://pawflow.example/inicio</loc></url>
+  <url><loc>https://pawflow.example/nosotros</loc></url>
+  <url><loc>https://pawflow.example/contacto</loc></url>
+  <url><loc>https://pawflow.example/productos</loc></url>
+  <url><loc>https://pawflow.example/petfeeder</loc></url>
+  <url><loc>https://pawflow.example/productos/feeder</loc></url>
+  <url><loc>https://pawflow.example/productos/fountain</loc></url>
+  <url><loc>https://pawflow.example/productos/bowl</loc></url>
+  <url><loc>https://pawflow.example/productos/camera</loc></url>
+  <url><loc>https://pawflow.example/blog</loc></url>
+  <url><loc>https://pawflow.example/blog/crear-una-rutina-tranquila</loc></url>
+  <url><loc>https://pawflow.example/blog/senales-de-un-perro-feliz</loc></url>
+  <url><loc>https://pawflow.example/blog/enriquecimiento-en-casa</loc></url>
+  <url><loc>https://pawflow.example/blog/descanso-para-gatos</loc></url>
+  <url><loc>https://pawflow.example/blog/paseos-con-menos-estres</loc></url>
+  <url><loc>https://pawflow.example/blog/porciones-adecuadas</loc></url>
+  <url><loc>https://pawflow.example/blog/hidratacion-para-gatos</loc></url>
+  <url><loc>https://pawflow.example/blog/transicion-de-alimento</loc></url>
+  <url><loc>https://pawflow.example/blog/premios-sin-excesos</loc></url>
+  <url><loc>https://pawflow.example/blog/horarios-de-comida</loc></url>
+  <url><loc>https://pawflow.example/blog/ensenar-a-usar-el-comedero</loc></url>
+  <url><loc>https://pawflow.example/blog/juegos-de-olfato</loc></url>
+  <url><loc>https://pawflow.example/blog/refuerzo-positivo-en-casa</loc></url>
+  <url><loc>https://pawflow.example/blog/primeros-dias-gatito</loc></url>
+  <url><loc>https://pawflow.example/blog/convivencia-perro-y-gato</loc></url>
+  <url><loc>https://pawflow.example/blog/comedero-inteligente-rutina</loc></url>
+  <url><loc>https://pawflow.example/blog/elegir-fuente-de-agua</loc></url>
+  <url><loc>https://pawflow.example/blog/camaras-para-mascotas</loc></url>
+  <url><loc>https://pawflow.example/blog/automatizar-comidas-sin-perder-flexibilidad</loc></url>
+  <url><loc>https://pawflow.example/blog/limpieza-accesorios-inteligentes</loc></url>
+</urlset>
